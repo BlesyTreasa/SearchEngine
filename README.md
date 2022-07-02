@@ -20,7 +20,7 @@ Then you need to load the dependency in your script.
 
 `require '../vendor/autoload.php';`
 
-## Usagee
+## Usage
  `require '../vendor/autoload.php';`
 
  `use SearchEngine\Search;`
